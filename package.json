@@ -1,0 +1,32 @@
+{
+  "name": "soundjs",
+  "version": "0.6.1",
+  "description": "A Javascript library for working with Audio. Features a simple interface as the front end to multiple audio APIs via a plugin model. Currently supports WebAudio, HTML5 Audio, and a Flash fallback. Part of the CreateJS suite of libraries.",
+  "main": "lib/soundjs-0.6.1.combined.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monoblaine/SoundJS.git"
+  },
+  "keywords": [
+    "sound",
+    "audio",
+    "webaudio",
+    "html5",
+    "createjs"
+  ],
+  "author": "Serhan Apaydın <zerhan@gmail.com> (https://github.com/monoblaine)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monoblaine/SoundJS/issues"
+  },
+  "homepage": "https://github.com/monoblaine/SoundJS#readme"
+}
